@@ -9,5 +9,7 @@ sdfsdlkfjlskdjflsdjflsdk
 sdflsdjfsdlfvcnxm,vnxc,mvnxc,mv
 xvxcnv,dfnsdkjfsdjfksd
 fdsfsd
-cxvxcnvnxcmvnjl
+cxvxcnvnxcmv
+cout<<hello every one;
+njl
 }
